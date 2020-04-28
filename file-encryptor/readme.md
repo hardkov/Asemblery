@@ -1,12 +1,12 @@
 ## Uwagi do projektu:
 
-* zasada działania jest następująca  
+* Zasada działania jest następująca  
     
     Program otwiera plik wejsciowy oraz wyjsciowy i pobiera, xoruje
     oraz zapisuje do pliku wyjsciowego 254 bajtowe fragmenty.
 
 
-* zakładam że dane wejściowe są postaci
+* Zakładam że dane wejściowe są postaci
 
     program1  plik_wej  plik_wyj  "klucz do szyfrowania tekstu"  
 
