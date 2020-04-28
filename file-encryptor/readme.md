@@ -1,6 +1,6 @@
 ## Uwagi do projektu:
 
-* zasada dzia?ania jest następująca  
+* zasada działania jest następująca  
     program otwiera plik wejsciowy oraz wyjsciowy i pobiera, xoruje
     oraz zapisuje do pliku wyjsciowego 254 bajtowe fragmenty.
 
