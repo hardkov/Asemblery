@@ -1,7 +1,8 @@
 ## Uwagi do projektu:
 
 * zasada działania jest następująca  
-    program otwiera plik wejsciowy oraz wyjsciowy i pobiera, xoruje
+    
+    Program otwiera plik wejsciowy oraz wyjsciowy i pobiera, xoruje
     oraz zapisuje do pliku wyjsciowego 254 bajtowe fragmenty.
 
 
@@ -13,7 +14,6 @@
     do szyfrowania tekstu również nie jest zerowej długołci i jest objęty  
     cudzysłowami. Argumenty są oddzielone jedną spacją.  
 
-* W programie istnieje obsługa błędu otwierania, czytania oraz zapisywania  
-    do pliku.ls
+* W programie istnieje obsługa błędu otwierania, czytania oraz zapisywania  do pliku.
     
 
