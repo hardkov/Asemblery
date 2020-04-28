@@ -1,18 +1,19 @@
 ## Uwagi do projektu:
 
-* zasada dzia�ania jest nast�puj�ca  
+* zasada dzia?ania jest następująca  
     program otwiera plik wejsciowy oraz wyjsciowy i pobiera, xoruje
     oraz zapisuje do pliku wyjsciowego 254 bajtowe fragmenty.
 
 
-* zak�adam �e dane wej�ciowe s� postaci
+* zakładam że dane wejściowe są postaci
 
     program1  plik_wej  plik_wyj  "klucz do szyfrowania tekstu"  
 
-    Gdzie plik_wej oraz plik_wyj nie s� zerowej d�ugo�ci oraz klucz  
-    do szyfrowania tekstu r�wnie� nie jest zerowej d�ugo�ci i jest obj�ty  
-    cudzys�owami. Argumenty s� oddzielone jedn� spacj�.  
+    Gdzie plik_wej oraz plik_wyj nie są zerowej długości oraz klucz  
+    do szyfrowania tekstu również nie jest zerowej długołci i jest objęty  
+    cudzysłowami. Argumenty są oddzielone jedną spacją.  
 
-    W programie istnieje obs�uga b��du otwierania, czytania oraz zapisywania  
-    do pliku.
+* W programie istnieje obsługa błędu otwierania, czytania oraz zapisywania  
+    do pliku.ls
+    
 
